@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588243702426",
+    "project_id": "loan-emi-calculator-ce37f",
+    "storage_bucket": "loan-emi-calculator-ce37f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588243702426:android:59fadbe8043c2b65274523",
+        "android_client_info": {
+          "package_name": "com.loan.emi.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_M02BQUugaOWioD5Pl1W9-af6SjvYXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

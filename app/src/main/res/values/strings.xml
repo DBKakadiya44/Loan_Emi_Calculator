@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Loan Emi Calculator</string>
+    <string name="type3">✤ Debt Funds:
+Debt funds chiefly invest in low-risk fixed-income instruments such as government securities. Since these funds come with a fixed maturity date and interest rate these are ideal for investors with low-risk appetite.</string>
+    <string name="type4">✤ Money Market Funds:
+Money market funds invest in easily accessible cash and cash equivalent securities and offer returns as regular dividends. These funds come with relatively lower risk and are ideal for short term investment.</string>
+    <string name="type5">✤ Open-ended Mutual Funds:
+Open-ended mutual funds have no constraints as far as the number of units that can be traded or the time period is concerned. Investors are allowed to trade and exit from the funds at their own convenience.</string>
+    <string name="type6">✤ Interval Funds:
+Interval funds can be bought/exited only at specific intervals as determined by the company. These are open for investment for a certain period of time only. Usually, the investors need to stay invested for at least 2 years.</string>
+    <string name="type7">✤ Closed-ended Mutual Funds:
+The unit capital that is to be invested in closed-ended mutual funds is fixed and therefore, it is not possible to sell more than the predetermined number of units. The maturity tenure of the scheme is fixed.</string>
+    <string name="type2">✤ Equity Funds:
+Equity funds make investments mainly in stocks of companies. Equity funds are the most preferred investment options among the majority of investors as these offer high returns and quick growth.</string>
+    <string name="type1">✤ Mutual funds in India are classified into different categories based on certain characteristics such as asset class, structure, investment objectives, and risk.
+Here, we will help you understand in detail the various categories and the kinds of funds under each category.</string>
+    <string name="mutualfund">Mutual funds are basically investment vehicles that comprise the capital of different investors who share a mutual financial goal. A fund manager manages the pool of money that is collected from various investors and invests the money into a variety of investment options such as company stocks, bonds, and shares. Mutual funds in India are regulated by the Securities and Exchange Board of India (SEBI), and investing in mutual funds</string>
+
+
+    <string name="car1">✤ When you take a car loan, you can repay it in equated monthly installments (EMIS) till the end of the repayment tenure. However, if you decide to pay off the outstanding loan amount before your tenure ends, you will be foreclosing or prepaying your loan. When you take a new loan to pay off the outstanding balance on your existing car loan, it is known as car refinancing.</string>
+    <string name="car2">✤ You can choose to refinance your car loan if you wish to replace your current loan with better features such as low interest rates, extended repayment tenures, etc., or simply to change the terms of your current loan. The most common reason why people refinance their car loans is to save money. When refinancing a car loan, you can avail a new loan that offers lower interest rates which, in turn, will save you money.</string>
+    <string name="car3">✤ You can also lower the equated monthly installments (EMIS) by choosing a longer repayment tenure with a new lender through car refinancing. As stated above, some lenders may charge you a penalty on loan foreclosure. Hence, before you decide to foreclose a loan, it is a good idea to go through the clauses.</string>
+
+
+    <string name="business1">✤ You can avail a Startup business loan from a bank or a financial body in order to raise funds to start a business of your own or expand your current business.
+The rate of interest charged by the bank will depend on the loan amount availed by you and the repayment tenure. Credit scores, annual revenue, business plan and collateral are the four cornerstones of most business loan applications.
+</string>
+    <string name="business2">✤ But note that there are many other supporting documents you will need to qualify for a business loan. They can include: your driver license. The most popular methods to buy a business with no money of your own are SBA loan and Seller financing. There are more ways such as getting an equipment loan, depending on the type of business you are buying. Owning your own business is one of the best ways to generate ongoing wealth.</string>
+
+
+    <string name="persnal1">✤ A personal loan is a loan that does not require collateral or security and is offered with minimal documentation.
+You can use the funds from this loan for any legitimate financial need. Like any other loan, you must repay it accordance to the agreed terms with the bank. Identity proof (Aadhaar Card, Driving licence, Passport, Voter ID, etc.)
+Signature Proof (Passport, PAN card, etc.)
+Address proof (Passport copy, Aadhaar card, driving licence, utility bill - gas or electricity bill, Voter ID, ration card, rent agreement, etc.) Bank statements of the past 6 months.your lender might have the right to take something that you own, such as your car, if you have a secured loan.your lender can report a missed payment to the credit bureaus, which could mean it will show up on your credit history and could hurt your ability to get credit in the future.
+</string>
+
+
+    <string name="home1">✤ A home loan is a secured loan taken from a financial institution for the purpose of buying a residential property. You can avail a home loan to buy a ready-to-move in house or apartment or one that is under construction. Home loans can be availed from both banks and Non Banking Financial Companies (NBFCs). These have varying interest rates which are often linked to your credit score.</string>
+    <string name="home2">✤ Home loans typically have a tenure of up to 30 years and have to be repaid as Equated Monthly Installments. You can also get tax deductions on both the principal and interest component of your home loan under Section 80C and Section 24 respectively of the Income Tax Act. Before signing up for a home loan product, it is best that you compare loans offered by different banks and lending institutions.</string>
+    <string name="home3">✤ c While comparing, consider the interest rate, Loan-to-Value (LTV) ratio, processing fees, and tenure offered by the bank. Use a home loan EMI calculator and calculate your EMI based on these factors. Compare multiple home loan products by various banks by using this method.</string>
+
+
+    <string name="gold1">✤ Under the extant guidelines, loans sanctioned by banks against pledge of gold ornaments and jewellery should not exceed 75 per cent of the value of gold ornaments and jewellery.</string>
+    <string name="gold2">✤ Some of the main benefits of loans against gold are as follows: Quick Processing - Since gold loans have physical gold as collateral, banks and other lending institutions easily provide such loans. For banks, lending against gold is a safer option since they can easily sell the gold in case the borrower defaults. To be eligible for a Gold Loan, you should be in the age group of 18 to 65 years.</string>
+    <string name="gold3">✤ Gold Loan eligibility criteria also involve the loan repayment tenure. Typically Gold Loans are offered for minimum and maximum tenures of 6 and 24 months respectively, and you should be able to repay the loan within this tenure.</string>
+
+
+    <string name="edu1">✤ must be a resident of India. He/she must have confirmed admission in recognised educational institutes in India or abroad.</string>
+    <string name="edu2">✤ The age of the candidate must fall within the bracket of 18 to 35 years during loan application.in general, you can get up to 4 lakhs of educational loan for higher studies without any collateral.Under education loan scheme, you can get a maximum of 15 lakhs for studies in India and more 25 lakhs for abroad studies. A guarantor is mandatory for an education loan. The applicant parents or guardians could be the guarantor. The bank before sanctioning the loan will run a thorough check of the guarantor and his/her credit history. After completion of the process, the bank can sanction or deny the applicant loan.</string>
+    <string name="edu3">✤ In case of BI Scholar loans, repayment will start after the completion of course period and moratorium period (6 months after course completion). The accrued interest during the moratorium period and course period is added to the principle and repayment is fixed in Equated Monthly Installments (EMI).</string>
+
+
+</resources>
